@@ -3,6 +3,13 @@ name = "rs-longs2bin"
 version = "0.1.0"
 edition = "2024"
 
+description = "Converts long integers to binary format."
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-longs2bin"
+homepage = "https://github.com/takanoriyanagitani/rs-longs2bin"
+documentation = "https://docs.rs/rs-longs2bin/latest"
+keywords = ["binary", "integer", "long", "convert"]
+
 exclude = [
 ]
 
